@@ -21,7 +21,7 @@ This is a **Streamlit-based research assistant** that:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/news-research-tool.git
+   git clone https://github.com/ashwinipatil-ap/news-research-tool.git
    cd news-research-tool
    ```
 
